@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RrsTaskManager.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe2e03463c74e905e17db843801add9418a904c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5940bb64da0920b58a0ad30a088ae131a9045f94")]
 [assembly: System.Reflection.AssemblyProductAttribute("RrsTaskManager.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RrsTaskManager.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
