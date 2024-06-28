@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bVwGtd1Pxiu3k0Dr+0IYIBrYovs8YAhwJCQvJ5zTWaqFQf0hRGVbtgyXMycSZTMj5gJypHFIWilJ6VbvufVCg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos RRS\\Web\\Dot Net\\CorporeRrsGerenciadorTarefas\\RrsTaskManager\\RrsTaskManager.Infra\\RrsTaskManager.Infra.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://nuget.ons.org.br/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
